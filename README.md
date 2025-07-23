@@ -15,6 +15,7 @@ With the rapid advancement of generative AI, determining whether something was g
 ## Dataset
 
 We used the **ArtiFact** dataset, which contains 2.5 million images, generated from 25 different models.
+https://github.com/awsaf49/artifact
 
 ## Model Architecture
 
