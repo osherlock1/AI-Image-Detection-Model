@@ -5,7 +5,7 @@ A binary classifier vision transformer based binary classifier to distinguish if
 ## Demo
 
 Try the live demo:  
-[ai-detection-model.streamlit.app](https://ai-detection-model.streamlit.app) :contentReference[oaicite:9]{index=9}
+[ai-detection-model.streamlit.app](https://ai-detection-model.streamlit.app)
 
 
 ## Problem Overview
